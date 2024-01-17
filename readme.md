@@ -10,6 +10,11 @@ URL Shortener is a web application that allows users to create short URLs for lo
 - **User Authentication:** Register and log in to manage your shortened URLs.
 - **User Dashboard:** View and manage your shortened URLs through a user-friendly dashboard.
 
+![alt text](readme_images/home.png)
+![alt text](readme_images/register.png)
+![alt text](readme_images/shortner.png)
+![alt text](readme_images/dashboard.png)
+
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
@@ -18,7 +23,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - Python 3.x
 - Django web framework
-- [Add any other dependencies here]
 
 ### Installation
 
